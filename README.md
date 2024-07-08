@@ -15,7 +15,7 @@
 <img alt="c" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <img alt="c++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img alt="latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /> <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajbirahmed&hide_progress=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajbirahmed&hide_progress=true&layout=compact&theme=dark)
 
 **Happy Learning 🤗**
 
